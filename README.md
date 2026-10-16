@@ -2,7 +2,7 @@
 
 A student-maintained archive of **GATE Computer Science and Information Technology (CS)** previous-year question papers for revision, timed practice, and exam analysis.
 
-[![GATE CS](https://img.shields.io/badge/Exam-GATE%20CS-blue)](https://gate2026.iitg.ac.in/)
+[![GATE CS](https://img.shields.io/badge/Exam-GATE%20CS-blue)](https://gate2027.iitm.ac.in/)
 [![Papers](https://img.shields.io/badge/Papers-24-success)](#-paper-index)
 [![Years](https://img.shields.io/badge/Years-2007--2026-informational)](#-paper-index)
 
@@ -60,19 +60,34 @@ Use these names consistently:
 
 Keep PDFs in the repository root for now so the links in this index work. The `CS/` directory currently contains a folder note; it is not where the listed PDFs are stored.
 
+## ✅ Archive validation
+
+A small Python script checks that all 24 expected files exist and have a PDF signature. It runs automatically on pushes and pull requests through GitHub Actions.
+
+Run the same check locally:
+
+```bash
+python scripts/check_papers.py
+```
+
+This check catches missing or incorrectly formatted files; it does **not** confirm that every page is present, that the content is authentic, or that redistribution is permitted.
+
 ## 🤝 Contributing
 
 Contributions that improve the archive are welcome.
 
-- Report a broken, unreadable, duplicate, or incorrectly labelled PDF through [Issues](../../issues).
+- Report a broken, unreadable, duplicate, or incorrectly labelled PDF through [GitHub Issues](https://github.com/Vikram2005-byte/gate-cs-previous-year-papers/issues).
 - When adding a paper, use the naming convention above and update the paper index in this README.
 - Before submitting, open the PDF and check that it is readable, complete, and labelled with the correct year/session.
-- Prefer linking to official public sources when available, and respect the applicable copyright and distribution terms. Do not upload material you do not have permission to redistribute.
+- See [CONTRIBUTING.md](CONTRIBUTING.md) for the full contribution checklist.
 
 ## 🔗 Official information
 
-- [Official GATE 2026 website](https://gate2026.iitg.ac.in/) — use official sources for announcements and documents.
-- Check the relevant GATE organising institute's official website for the current exam year, syllabus, notices, and answer keys.
+- [Official GATE 2027 website](https://gate2027.iitm.ac.in/) — current exam-cycle announcements and instructions.
+- [Official question papers and answer keys](https://gate2027.iitm.ac.in/download) — includes year-wise papers and a bulk archive.
+- [Official GATE test papers and syllabus](https://gate2027.iitm.ac.in/exam_papers_and_syllabus) — verify the current CS syllabus here.
+
+Use the official site for the current exam cycle, and check the relevant organising institute's site when a new cycle is announced.
 
 ## ⚖️ Disclaimer
 
