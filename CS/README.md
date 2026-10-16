@@ -1,14 +1,9 @@
-# GATE CS Question Papers
+# GATE CS Question Papers — Folder Note
 
-Upload the extracted PDF files from `CS.zip` into this folder.
+The paper PDFs are currently stored in the **repository root**, not in this `CS/` folder.
 
-Expected file names:
+Use the [paper index in the main README](../README.md#-paper-index) to open or download all 24 PDFs. The index links directly to each file.
 
-- `2007_CS.pdf` through `2016_CS.pdf`
-- `2017_CS1.pdf` and `2017_CS2.pdf`
-- `2018_CS.pdf` through `2023_CS.pdf`
-- `2024_CS1.pdf` and `2024_CS2.pdf`
-- `2025_CS1.pdf` and `2025_CS2.pdf`
-- `2026_CS1.pdf` and `2026_CS2.pdf`
+This folder is kept for archive documentation. If the PDFs are moved here in the future, update the main README links in the same change and run the paper validation workflow.
 
-Once the PDFs are uploaded, they will appear beside this file and can be opened individually from GitHub.
+For naming conventions, contribution guidance, and study suggestions, see the [main README](../README.md) and [CONTRIBUTING.md](../CONTRIBUTING.md).
