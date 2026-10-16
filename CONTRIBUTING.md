@@ -24,7 +24,7 @@ The current index expects 24 files for 2007–2026. If adding a new year or corr
 
 ## Reporting a problem
 
-Open a [GitHub Issue](../../issues) and include the file name, what is wrong, and—if available—a link to the official source. Do not attach copyrighted material unless redistribution is permitted.
+Open a [GitHub Issue](https://github.com/Vikram2005-byte/gate-cs-previous-year-papers/issues) and include the file name, what is wrong, and—if available—a link to the official source. Do not attach copyrighted material unless redistribution is permitted.
 
 ## Pull request checklist
 
