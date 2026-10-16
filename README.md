@@ -5,6 +5,7 @@ A student-maintained archive of **GATE Computer Science and Information Technolo
 [![GATE CS](https://img.shields.io/badge/Exam-GATE%20CS-blue)](https://gate2027.iitm.ac.in/)
 [![Papers](https://img.shields.io/badge/Papers-24-success)](#-paper-index)
 [![Years](https://img.shields.io/badge/Years-2007--2026-informational)](#-paper-index)
+[![Validate paper archive](https://github.com/Vikram2005-byte/gate-cs-previous-year-papers/actions/workflows/validate-papers.yml/badge.svg)](https://github.com/Vikram2005-byte/gate-cs-previous-year-papers/actions/workflows/validate-papers.yml)
 
 > **Important:** This is an independent study resource, not an official GATE website. Verify the question paper, answer key, syllabus, and exam instructions against official GATE/IIT sources. The presence of a PDF here does not by itself verify its authenticity or completeness.
 
